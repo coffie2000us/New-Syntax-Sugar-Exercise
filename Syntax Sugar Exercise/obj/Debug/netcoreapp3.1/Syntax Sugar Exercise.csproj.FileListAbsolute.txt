@@ -1,0 +1,14 @@
+C:\Users\charl\Desktop\2nd Repos\Syntax Sugar Exercise\Syntax Sugar Exercise\bin\Debug\netcoreapp3.1\Syntax Sugar Exercise.exe
+C:\Users\charl\Desktop\2nd Repos\Syntax Sugar Exercise\Syntax Sugar Exercise\bin\Debug\netcoreapp3.1\Syntax Sugar Exercise.deps.json
+C:\Users\charl\Desktop\2nd Repos\Syntax Sugar Exercise\Syntax Sugar Exercise\bin\Debug\netcoreapp3.1\Syntax Sugar Exercise.runtimeconfig.json
+C:\Users\charl\Desktop\2nd Repos\Syntax Sugar Exercise\Syntax Sugar Exercise\bin\Debug\netcoreapp3.1\Syntax Sugar Exercise.runtimeconfig.dev.json
+C:\Users\charl\Desktop\2nd Repos\Syntax Sugar Exercise\Syntax Sugar Exercise\bin\Debug\netcoreapp3.1\Syntax Sugar Exercise.dll
+C:\Users\charl\Desktop\2nd Repos\Syntax Sugar Exercise\Syntax Sugar Exercise\bin\Debug\netcoreapp3.1\Syntax Sugar Exercise.pdb
+C:\Users\charl\Desktop\2nd Repos\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\netcoreapp3.1\Syntax Sugar Exercise.csproj.AssemblyReference.cache
+C:\Users\charl\Desktop\2nd Repos\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\netcoreapp3.1\Syntax Sugar Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\charl\Desktop\2nd Repos\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\netcoreapp3.1\Syntax Sugar Exercise.AssemblyInfoInputs.cache
+C:\Users\charl\Desktop\2nd Repos\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\netcoreapp3.1\Syntax Sugar Exercise.AssemblyInfo.cs
+C:\Users\charl\Desktop\2nd Repos\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\netcoreapp3.1\Syntax Sugar Exercise.csproj.CoreCompileInputs.cache
+C:\Users\charl\Desktop\2nd Repos\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\netcoreapp3.1\Syntax Sugar Exercise.dll
+C:\Users\charl\Desktop\2nd Repos\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\netcoreapp3.1\Syntax Sugar Exercise.pdb
+C:\Users\charl\Desktop\2nd Repos\Syntax Sugar Exercise\Syntax Sugar Exercise\obj\Debug\netcoreapp3.1\Syntax Sugar Exercise.genruntimeconfig.cache
